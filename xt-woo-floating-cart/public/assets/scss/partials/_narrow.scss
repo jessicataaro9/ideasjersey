@@ -1,0 +1,18 @@
+.xt_woofc-narrow-cart {
+  .xt_woofc-product-header {
+    flex-direction: column;
+  }
+  .xt_woofc-product-image {
+    width: 50px;
+  }
+  .xt_woofc-price {
+    margin-top: 4px;
+    .tax_label{
+      font-size: 0.8rem
+    }
+  }
+
+  .xt_woofc-inner .xt_woofc-actions{
+    font-size: 0.9rem !important;
+  }
+}

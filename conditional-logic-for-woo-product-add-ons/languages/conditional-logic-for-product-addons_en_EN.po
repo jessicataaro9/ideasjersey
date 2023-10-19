@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-07-25 22:27+0300\n"
+"PO-Revision-Date: 2023-07-25 22:27+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e;"
+"esc_html_x;esc_html_n;esc_attr_n;esc_attr_x;_x;_n\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+
+#: license.php:53 license.php:54
+msgid "Freemius Account"
+msgstr ""
+
+#: license.php:60 src/AddonsConditionsPlugin.php:103
+msgid "Contact Us"
+msgstr ""
+
+#: src/AddonsConditionsPlugin.php:68
+#, php-format
+msgid "Conditions for Product Add-ons requires %s plugin to be active!"
+msgstr ""
+
+#: src/AddonsConditionsPlugin.php:95
+msgid "Documentation"
+msgstr ""
+
+#: src/AddonsConditionsPlugin.php:99
+msgid "Account"
+msgstr ""
+
+#: src/AddonsConditionsPlugin.php:107
+msgid "Go Premium"
+msgstr ""
+
+#: src/Schema.php:103
+msgid "Is"
+msgstr ""
+
+#: src/Schema.php:108
+msgid "Is not"
+msgstr ""
+
+#: src/Schema.php:113
+msgid "Is empty"
+msgstr ""
+
+#: src/Schema.php:118
+msgid "Is not empty"
+msgstr ""
+
+#: src/Schema.php:123
+msgid "Is greater than"
+msgstr ""
+
+#: src/Schema.php:128
+msgid "Is less than"
+msgstr ""
+
+#: src/Schema.php:133
+msgid "Is greater than or equal"
+msgstr ""
+
+#: src/Schema.php:138
+msgid "Is less than or equal"
+msgstr ""
+
+#: src/Schema.php:143
+msgid "Text contains"
+msgstr ""
+
+#: src/Schema.php:148
+msgid "Text does not contain"
+msgstr ""
+
+#: src/Schema.php:153
+msgid "Text starts with"
+msgstr ""
+
+#: src/Schema.php:158
+msgid "Text end with"
+msgstr ""
+
+#: views/admin/conditions/conditions.php:44
+msgid "Conditional logic"
+msgstr ""
+
+#: views/admin/conditions/conditions.php:52
+msgid ""
+"Please note that the free version allows you to set only one conditional "
+"rule."
+msgstr ""
+
+#: views/admin/conditions/conditions.php:55
+msgid "Upgrade to get unlimited conditions"
+msgstr ""
+
+#: views/admin/conditions/conditions.php:91
+msgid "Please update (re-save) the post to set up conditional logic."
+msgstr ""
+
+#: views/admin/conditions/parts/display-rules.php:19
+msgid "Show this field if"
+msgstr ""
+
+#: views/admin/conditions/parts/display-rules.php:22
+msgid "Hide this field if"
+msgstr ""
+
+#: views/admin/conditions/parts/display-rules.php:29
+msgid "All rules match"
+msgstr ""
+
+#: views/admin/conditions/parts/display-rules.php:32
+msgid "Any rules match"
+msgstr ""
+
+#: views/admin/conditions/parts/rule/add-new.php:41
+msgid "Upgrade to unlock this feature"
+msgstr ""
+
+#: views/admin/conditions/parts/rule/add-new.php:42
+#: views/admin/conditions/parts/rule/add-new.php:48
+msgid "Add Condition"
+msgstr ""
+
+#: views/admin/conditions/parts/rule/field.php:21
+msgid "Field"
+msgstr ""
+
+#: views/admin/conditions/parts/rule/field.php:30
+msgid "Select Field"
+msgstr ""
+
+#: views/admin/conditions/parts/rule/field.php:67
+msgid "Option#"
+msgstr ""
+
+#: views/admin/conditions/parts/rule/relation.php:21
+msgid "Relation"
+msgstr ""
+
+#: views/admin/conditions/parts/rule/relation.php:29
+msgid "Select Relation"
+msgstr ""
+
+#: views/admin/conditions/parts/rule/remove.php:15
+msgid "Remove"
+msgstr ""
+
+#: views/admin/conditions/parts/rule/value.php:14
+#: views/admin/conditions/parts/rule/value.php:24
+#: views/admin/conditions/parts/rule/value.php:36
+#: views/admin/conditions/parts/rule/value.php:47
+msgid "Value"
+msgstr ""
+
+#: views/admin/conditions/parts/variations-rules.php:23
+msgid "Variations"
+msgstr ""
+
+#: views/admin/conditions/parts/variations-rules.php:26
+msgid ""
+"If you want to show this field only for certain variations, chose the "
+"desired variations\n"
+"\t\t\tbelow. Leave empty to don't add any restrictions by variations."
+msgstr ""
+
+#: views/admin/conditions/parts/variations-rules.php:45
+msgid "Available only in the premium version."
+msgstr ""
+
+#: views/admin/conditions/parts/variations-rules.php:47
+msgid "Upgrade"
+msgstr ""

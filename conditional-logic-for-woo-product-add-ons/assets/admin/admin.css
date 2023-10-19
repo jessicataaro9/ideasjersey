@@ -1,0 +1,63 @@
+.wc-pao-addon-conditions {
+    margin-top: 20px;
+}
+
+.wc-pao-addon-conditions__display-rules {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    gap: 15px;
+}
+
+.wc-pao-addon-conditions__display-rule {
+    width: 100%;
+}
+
+.wc-pao-addon-conditions__rule-row {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    gap: 15px;
+    align-content: center;
+}
+
+.wc-pao-addon-conditions__add-new {
+    margin-top: 20px;
+}
+
+/*******************************************
+*******************************************
+*******************************************/
+
+.wc-pao-addon-conditions-rule {
+    width: 100%;
+}
+
+.wc-pao-addon-conditions-rule__remove {
+    width: -moz-fit-content;
+    width: fit-content;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    margin-top: 12px;
+}
+
+.wc-pao-addon-conditions-rule__value-inner {
+    display: none;
+}
+
+/*******************************************
+*******************************************
+*******************************************/
+.cfpa-notice {
+    background: #fff;
+    border: 1px solid #c4c4c4;
+    border-left-width: 4px;
+    padding: 1px 12px;
+}
+
+.cfpa-notice p {
+    margin: 0.5em 0;
+    padding: 0 !important;
+}

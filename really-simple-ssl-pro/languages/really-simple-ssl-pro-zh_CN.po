@@ -1,0 +1,799 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Really Simple SSL pro\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: Chinese (China)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-12-07 08:36+0100\n"
+"PO-Revision-Date: 2023-02-07 07:53+0000\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.8; wp-5.9.2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: really-simple-ssl-zh_CN.po\n"
+
+#: class-admin.php:12
+#: class-scan.php:44
+#: csp-violation-endpoint.php:10
+#, php-format
+msgid "%s is a singleton class and you cannot create a second instance."
+msgstr " %s 是一个单例级而且你无法建立第二例"
+
+#: class-licensing.php:527
+#: class-licensing.php:623
+#, php-format
+msgid "%s/%s activations available."
+msgstr "%s/%s 激活可用。"
+
+#: class-licensing.php:696
+#, php-format
+msgid "%sActivate%s your license."
+msgstr "%s激活%s 您的许可。"
+
+#: class-admin.php:557
+#, php-format
+msgid "%sRead more%s."
+msgstr "%s了解更多%s。"
+
+#: class-scan.php:229
+#, php-format
+msgctxt "'date' at 'time'"
+msgid "%s at %s"
+msgstr "%s 在 %s"
+
+#: class-admin.php:557
+msgid "A redirect to http was detected. This might result in redirect loops."
+msgstr "检测到一个到http的重定向。这可能会导致重定向循环。"
+
+#: csp-violation-endpoint.php:153
+msgid "A required database table is missing. Please check if you have permissions to add this database table."
+msgstr ""
+
+#: class-licensing.php:65
+msgid "Activate your license for automatic updates."
+msgstr ""
+
+#: class-scan.php:1668
+#: class-scan.php:1702
+#: class-scan.php:1778
+#: class-scan.php:1815
+#: class-scan.php:1864
+#, php-format
+msgid "Blocked URL: %s"
+msgstr "阻止的URL： %s"
+
+#: class-scan.php:1629
+msgid "cached file, deactivate cache to see the actual source"
+msgstr "缓存文件，禁用缓存以查看原始代码"
+
+#: class-scan.php:1703
+msgid "Can be fixed automatically by pressing the Fix button. If fixing fails, the source file can be edited manually by pressing the Edit button."
+msgstr "可以通过按下\"修复\"按钮自动修复。如果修复失败，可以通过按\"编辑\"按钮手动编辑源文件。"
+
+#: class-scan.php:1741
+msgid "Cannot be fixed automatically, as the mixed content is coming from an external domain. Contact the owner of the domain to update the CSS/JS file"
+msgstr "无法自动修复，因为混合内容来自外部域。请与域所有者联系以更新 CSS/JS 文件"
+
+#: class-scan.php:370
+#, php-format
+msgid "Checking if external js or css files contain http links, %s of %s"
+msgstr "正在检查外部js或css文件是否包含http链接，共%s个%s"
+
+#: class-scan.php:318
+#, php-format
+msgid "Checking posts for external URLs, %s of %s"
+msgstr "检查帖子的外部 URL，%s 的 %s"
+
+#: class-scan.php:342
+msgid "Checking which postmeta contain external resources"
+msgstr "检查哪些 postmeta 包含外部资源"
+
+#: class-scan.php:355
+#, php-format
+msgid "Checking which resources can't load over ssl, %s of %s"
+msgstr "正在检查哪些资源无法通过SSL加载，%s of %s"
+
+#: class-scan.php:331
+msgid "Checking widgets for external URLs"
+msgstr "检查小部件的外部 URL"
+
+#: csp-violation-endpoint.php:190
+msgid "Click 'Enforce' to enforce the configuration on your site."
+msgstr ""
+
+#: class-scan.php:1722
+#: class-scan.php:1797
+#: class-scan.php:1835
+#: class-scan.php:1882
+#: class-scan.php:2183
+msgid "Copyright warning!"
+msgstr "版权警告！"
+
+#: class-scan.php:1646
+msgid "Downloading files from other websites can cause serious copyright issues! It is always illegal to use images, files, or any copyright protected material on your own site without the consent of the copyrightholder. Please ask the copyrightholder for permission. Use this function at your own risk."
+msgstr "从其他网站下载文件可能会导致严重的版权问题！未经版权所有者的同意，在您自己的网站上使用图像，文件或任何受版权保护的材料始终是非法的。请征询版权所有者的许可。使用此功能需要您自担风险。"
+
+#: class-admin.php:538
+msgid "Elementor mixed content successfully converted."
+msgstr "已成功在前端检测到 mixed content 修复器。"
+
+#: class-scan.php:1631
+msgid "file"
+msgstr "文件"
+
+#: class-scan.php:435
+msgid "Finished scan"
+msgstr "完成扫描"
+
+#: csp-violation-endpoint.php:187
+msgid "Follow these steps to complete the setup:"
+msgstr "按照下面步骤完成安装："
+
+#: class-scan.php:304
+msgid "Generating file list"
+msgstr "使档案名单产生"
+
+#: class-scan.php:262
+msgid "Generating web page list"
+msgstr "正在生成网页列表"
+
+#: class-scan.php:138
+#: class-scan.php:152
+msgid "Great! Your scan last completed without errors."
+msgstr "太好了! 你的最后扫瞄已毫无错误完成了。"
+
+#. Description of the plugin
+msgid "Heavyweight Security Features"
+msgstr ""
+
+#: class-headers.php:214
+msgid "HSTS not enabled"
+msgstr ""
+
+#: class-headers.php:201
+#: class-headers.php:207
+msgid "HSTS Preload"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://really-simple-ssl.com/pro"
+msgstr "https://really-simple-ssl.com/pro"
+
+#. Author URI of the plugin
+msgid "https://www.really-simple-plugins.com"
+msgstr "https://www.really-simple-plugins.com"
+
+#: class-scan.php:1814
+msgid "iFrame in the wp_postmeta database table"
+msgstr "wp_postmeta 数据库文件中的iFrame"
+
+#: class-scan.php:1721
+#: class-scan.php:1796
+#: class-scan.php:1834
+#: class-scan.php:1881
+msgid "Import and insert file"
+msgstr "导入和插入文件"
+
+#: really-simple-ssl-pro.php:268
+msgid "Install and activate Really Simple SSL"
+msgstr ""
+
+#: csp-violation-endpoint.php:175
+msgid "Learning Mode is active for your Content Security and will complete in %s days."
+msgstr ""
+
+#: class-licensing.php:185
+#: class-licensing.php:207
+#: class-licensing.php:704
+#: class-licensing.php:711
+#: class-licensing.php:718
+#: class-licensing.php:725
+#: class-licensing.php:732
+#: class-licensing.php:747
+msgid "License"
+msgstr "许可"
+
+#: class-scan.php:385
+#, php-format
+msgid "Looking up blocked resources in files, %s of %s"
+msgstr "在文件中查找阻断的资源，%s of %s"
+
+#: class-scan.php:412
+msgid "Looking up blocked resources in postmeta"
+msgstr "在postmeta中查找阻断的资源"
+
+#: class-scan.php:399
+msgid "Looking up blocked resources in posts"
+msgstr "查寻在贴文里被阻断的来源"
+
+#: class-scan.php:427
+msgid "Looking up blocked resources in widgets"
+msgstr "在小工具中查找阻断的资源"
+
+#: class-scan.php:1864
+msgid "Mixed content found in a widget. Press the edit link to edit the widget manually."
+msgstr "在小工具中发现混合内容。点击编辑链接对小工具进行手动编辑。"
+
+#: class-scan.php:1779
+msgid "Mixed content found in in a post. Can be fixed automatically by pressing the fix button. Pressing the edit button allows you to update the link in the post manually."
+msgstr "在贴文中发现了混合内容。可以点击修复按钮自动修复。点击编辑按钮可以手动更新贴文中的链接。"
+
+#: class-scan.php:1816
+msgid "Mixed content from a postmeta table in your database. Usually won't cause any mixed content on the front-end. Check the post if it causes mixed content. If so, the link can be replace directly in the database."
+msgstr "在您数据库的postmeta表中发现了混合内容。通常不会给前端造成任何混合内容。如果造成混合内容，请检查贴文。真要这样，可以在数据库中直接替换该链接。"
+
+#: class-scan.php:1708
+#, php-format
+msgid "Mixed content in %s"
+msgstr "%s 中的混合内容"
+
+#: class-scan.php:1747
+msgid "Mixed content in CSS/JS file from other domain"
+msgstr "其他域上的CSS/JS文件中的混合内容"
+
+#: class-scan.php:1673
+msgid "Mixed content in PHP file in %s"
+msgstr ""
+
+#: class-scan.php:1814
+msgid "Mixed content in the postmeta table"
+msgstr "postmeta表中的混合内容"
+
+#: class-scan.php:1742
+#, php-format
+msgid "Mixed content resources: %s"
+msgstr "混合内容资源：%s"
+
+#: class-scan.php:1623
+msgid "mu plugin file"
+msgstr "必备插件文件"
+
+#: class-licensing.php:568
+#, fuzzy,php-format
+msgid "Multisite detected. Please upgrade to %smultisite%s."
+msgstr "检测到多站。请考虑升级到 %s多站授权%s。"
+
+#: class-scan.php:223
+#: class-scan.php:1918
+msgid "Never"
+msgstr "從不"
+
+#: class-admin.php:552
+msgid "No redirect to http detected."
+msgstr "未检测到http的重定向。"
+
+#: class-licensing.php:636
+msgid "Open"
+msgstr "打开"
+
+#: really-simple-ssl-pro.php:259
+#, fuzzy
+msgid "Please %supgrade%s to the latest version to be able use the full functionality of the plugin."
+msgstr "请升级到最新版本，以便能够使用插件的全部功能。"
+
+#: class-licensing.php:590
+msgid "Please activate your license key."
+msgstr "请激活您的授权码。"
+
+#: class-licensing.php:582
+#, php-format
+msgid "Please enter your license key. Available in your %saccount%s."
+msgstr "请输入您的授权码。在您的 %s账户%s中。"
+
+#: really-simple-ssl-pro.php:257
+msgid "Please install and activate Really Simple SSL to enable the add-on."
+msgstr "请安装并在激活Really Simple SSL来启用附加组件。"
+
+#: class-scan.php:2188
+#, fuzzy
+msgid "Please note that any changes you have made since to your current files, will be lost."
+msgstr "请注意，截止当前文件之前您所做的任何修改都将丢失。"
+
+#: class-scan.php:1625
+msgid "plugin file"
+msgstr "插件文件"
+
+#: class-admin.php:551
+#: class-admin.php:556
+msgid "Potential redirect loop."
+msgstr "潜在的重定向循环。"
+
+#: class-licensing.php:638
+msgid "Premium"
+msgstr ""
+
+#. Author of the plugin
+msgid "Really Simple Plugins"
+msgstr "Really Simple Plugins"
+
+#: really-simple-ssl-pro.php:256
+#, fuzzy
+msgid "Really Simple SSL Pro is an add-on for Really Simple SSL, and cannot do it on its own :-("
+msgstr "Really Simple SSL 专业版是 Really Simple SSL的一个附加组件，无法自己来 :-("
+
+#: class-scan.php:2193
+msgid "Restore files"
+msgstr "恢复文件"
+
+#: csp-violation-endpoint.php:189
+msgid "Review the detected configuration in 'Content Security Policy'."
+msgstr ""
+
+#: class-scan.php:2182
+msgid "Roll back changes made to your files"
+msgstr "回滚文件更改"
+
+#: class-importer.php:61
+msgid "Roll back file changes"
+msgstr "回滚文件更改"
+
+#: class-scan.php:275
+#, php-format
+msgid "Searching for js and css files and links to external resources in website, %s of %s"
+msgstr "在网站中查找js和css文件，以及到外部资源的链接，%s of %s"
+
+#: class-scan.php:290
+#, php-format
+msgid "Searching for mixed content in css and js files, %s of %s"
+msgstr "在css和js文件中查找混合内容，%s of %s"
+
+#: class-admin.php:647
+msgid "Settings"
+msgstr "設定"
+
+#: class-importer.php:537
+msgid "Something went wrong."
+msgstr "出错。"
+
+#: class-importer.php:93
+#, fuzzy
+msgid "Something went wrong. If this doesn't work, you can put the original files back by changing files named 'rsssl-bkp-filename' to filename."
+msgstr "出错。如果这还不行，您可以通过重命名文件'rsssl-bkp-filename'为filename来还原原始文件。"
+
+#: class-importer.php:121
+#: class-importer.php:162
+#: class-importer.php:200
+#: class-importer.php:242
+#: class-importer.php:278
+msgid "Something went wrong. Please refresh the page and try again, or fix manually."
+msgstr "出错。请刷新页面并重试，或手动修复。"
+
+#: class-licensing.php:637
+msgid "Success"
+msgstr ""
+
+#: class-headers.php:181
+#: class-headers.php:387
+msgid "The %s security header is not set by Really Simple SSL, but has a non-recommended value: \"%s\"."
+msgstr ""
+
+#: class-importer.php:179
+msgid "The file could not be downloaded. It might not exist, or downloading is blocked. Fix manually."
+msgstr "文件无法下载。可能不存在，或者下载被阻断。手动修复。"
+
+#: class-importer.php:221
+#: class-importer.php:258
+#: class-importer.php:297
+msgid "The file could not be downloaded. The file might not exist, or downloading is be blocked by the server. Fix manually."
+msgstr "文件无法下载。文件可能不存在，或者下载被服务器阻断。手动修复。"
+
+#: class-headers.php:418
+msgid "The following recommended security headers have not been set: %s"
+msgstr ""
+
+#: class-scan.php:156
+msgid "The last scan was completed with errors. Are you sure these issues don't impact your site?"
+msgstr "最后的扫瞄已完成但带有错误。你确定这不会对你的网站有影响吗?"
+
+#: class-scan.php:142
+msgid "The last scan was completed with errors. Only migrate if you are sure the found errors are not a problem for your site."
+msgstr "最后的扫瞄已完成但带有错误。若你确定所发现的错误并不会对你的网站造成问题你才迁移。"
+
+#: class-licensing.php:576
+msgid "The license information could not be retrieved at this moment. Please try again at a later time."
+msgstr "现在无法收取授权信息。请稍后重试。"
+
+#: class-scan.php:1621
+msgid "theme file"
+msgstr "主题文件"
+
+#: class-importer.php:136
+msgid "There was a problem editing the file. Please try manually."
+msgstr "编辑文件出错。请手动尝试。"
+
+#: class-licensing.php:719
+msgid "This domain is not activated for this Really Simple SSL Pro license. Please activate the license for this domain."
+msgstr "Really Simple SSL 专业版授权没有激活该域名。请为该域名激活授权许可。"
+
+#: class-scan.php:1647
+msgid "This downloads the file from the domain without SSL, inserts it into WP media, and changes the URL to the new URL."
+msgstr "这会不通过SSL从域名下载文件，将它插入WP媒体，并修改URL为新的URL。"
+
+#: class-licensing.php:616
+#, php-format
+msgid "This license is not valid for this product. Find out why on your %saccount%s."
+msgstr "该许可对该产品无效。在您的%s账户%s查看原因。"
+
+#: class-licensing.php:609
+#, php-format
+msgid "This license is not valid. Find out why on your %saccount%s."
+msgstr "该许可无效。在您的 %s账户%s查看原因。"
+
+#: class-scan.php:2186
+#, fuzzy
+msgid "This will put the files back that were changed by the fix option in Really Simple SSL Pro."
+msgstr "这会将被 Really Simple SSL 专业版修复选项修改的文件还原。"
+
+#: class-admin.php:571
+#: class-admin.php:577
+msgid "TLS version"
+msgstr ""
+
+#: class-admin.php:572
+msgid "TLS version is up-to-date"
+msgstr "TLS版本已是最新"
+
+#: class-licensing.php:500
+msgid "unlimited"
+msgstr "无限制"
+
+#: class-licensing.php:524
+msgid "Unlimited activations available."
+msgstr "无限制激活可用。"
+
+#: class-licensing.php:513
+#, php-format
+msgid "Upgrade to a %s5 sites or Agency%s license."
+msgstr "升级到 %s5站或代理%s授权许可。"
+
+#: class-licensing.php:516
+#, php-format
+msgid "Upgrade to an %sAgency%s license."
+msgstr "升级到 %s代理%s 授权许可。"
+
+#: class-scan.php:1627
+msgid "uploads file, possibly generated by plugin or theme"
+msgstr "uploads文件，可能是由插件或主题生成的"
+
+#: class-licensing.php:543
+#, php-format
+msgid "Valid license for %s."
+msgstr "%s的有效授权许可。"
+
+#: class-licensing.php:507
+#, php-format
+msgid "Valid until %s."
+msgstr "有效期至 %s。"
+
+#: class-licensing.php:635
+msgid "Warning"
+msgstr "警告"
+
+#: class-scan.php:1859
+#, php-format
+msgid "Widget area \"%s\""
+msgstr "小工具区域 \"%s\""
+
+#: class-scan.php:1869
+msgid "Widget with mixed content"
+msgstr "带混合内容的小工具"
+
+#: class-licensing.php:748
+msgid "You are using Really Simple SSL Pro single site on a multisite environment. Please install Really Simple SSL multisite networkwide for multisite support."
+msgstr ""
+
+#: class-scan.php:1668
+msgid "You can edit the source file manually by pressing the edit button."
+msgstr "您可以点击编辑按钮手动编辑源文件。"
+
+#: class-licensing.php:519
+#, php-format
+msgid "You can renew your license on your %saccount%s."
+msgstr "您可以在您的 %s账户%s 更新您的授权许可。"
+
+#: class-licensing.php:698
+#, php-format
+msgid "You can upgrade on your %saccount%s."
+msgstr "您可以在您的 %s账户%s 进行升级。"
+
+#: class-licensing.php:726
+msgid "You do not have any activations left on your Really Simple SSL Pro license. Please upgrade your plan for additional activations."
+msgstr "您的Really Simple SSL 专业版授权许可没有剩余可用的激活。请升级您的方案以获取额外的激活许可。"
+
+#: class-licensing.php:507
+msgid "You have a lifetime license."
+msgstr "您拥有终身授权许可。"
+
+#: class-scan.php:147
+msgid "You haven't scanned the site yet, you should scan your site to check for possible issues."
+msgstr "你还没有扫瞄你的网站，你应为检查一些潜在的问题而扫瞄你的网站。"
+
+#: class-importer.php:107
+msgid "Your files already were restored."
+msgstr "您的文件已经恢复。"
+
+#: class-importer.php:105
+msgid "Your files were restored."
+msgstr "您的文件已恢复。"
+
+#: class-licensing.php:602
+#, php-format
+msgid "Your license could not be found in our system. Please contact %ssupport%s."
+msgstr "我们系统中未找到您的授权码。请联系 %s客服支持%s。"
+
+#: class-licensing.php:596
+#, php-format
+msgid "Your license has been revoked. Please contact %ssupport%s."
+msgstr "您的授权许可已作废。请联系 %s客服支持%s。"
+
+#: class-licensing.php:629
+#, php-format
+msgid "Your license key has expired. Please renew your license key on your %saccount%s."
+msgstr "您的授权码已过期。请在您的 %s账户%s 更新您的授权码。"
+
+#: class-licensing.php:681
+msgid "Your Really Simple SSL Pro license hasn't been activated."
+msgstr ""
+
+#: class-licensing.php:682
+msgid "Your Really Simple SSL Pro license is not valid."
+msgstr ""
+
+#: class-licensing.php:705
+msgid "Your Really Simple SSL Pro license key has expired. Please renew your license to continue receiving updates and premium support."
+msgstr "您的Really Simple SSL 专业版授权码已过期。请更新您的授权码以继续接收更新和专业的服务。"
+
+#: class-licensing.php:733
+msgid "Your Really Simple SSL Pro license key hasn't been activated yet. You can activate your license key on the license tab."
+msgstr "您的 Really Simple SSL 专业版授权码尚未激活。您可以在许可标签激活您的授权码。"
+
+#: class-licensing.php:712
+msgid "Your Really Simple SSL Pro license key is not activated. Please activate your license to continue receiving updates and premium support."
+msgstr "您的 Really Simple SSL 专业版授权码未激活。请激活您的授权以及继续接收更新和专业的服务。"
+
+#: class-headers.php:202
+#, php-format
+msgid "Your site has been configured for the HSTS preload list. If you have submitted your site, it will be preloaded. Click %shere%s to submit."
+msgstr "您的网站被设置到 HSTS 预载列表中。如果您已提交网站，它将会被预载入。点击 %s这里%s 进行提交。"
+
+#: class-headers.php:215
+msgid "Your site is not configured for HSTS yet."
+msgstr ""
+
+#: class-headers.php:208
+msgid "Your site is not yet configured for the HSTS preload list."
+msgstr "您的网站尚未设置到 HSTS 预载列表中。"
+
+#: class-admin.php:592
+msgid "Your site redirects 404 pages to the http:// version of your homepage. This can cause mixed content issues with images."
+msgstr "您的网站重定向 404 页面到您网站的 http:// 版本。这可能会造成图片的混合内容问题。"
+
+#: class-admin.php:578
+msgid "Your site uses an outdated version of TLS. Upgrade to TLS 1.2 or TLS 1.3 to keep your site secure."
+msgstr "您的网站使用的是 TLS 的过期版本。请升级到 TLS 1.2 或 TLS 1.3 来保持您站点的安全。"
+
+#. Plugin Name of the plugin
+msgid "Really Simple SSL Pro"
+msgstr ""
+
+#: class-scan.php:1703
+msgid "Can be fixed manually by editing the respective mu-plugin file in the /wp-content/mu-plugins/ directory."
+msgstr ""
+
+#: class-scan.php:1784
+msgid "Mixed content in post: %s"
+msgstr ""
+
+#: csp-violation-endpoint.php:214
+msgid "Content Security Policy maximum size exceeded"
+msgstr ""
+
+#: csp-violation-endpoint.php:215
+msgid "Your site has exceeded the maximum size for HTTP headers. To prevent issues, the Content Security Policy won't be added to your HTTP headers."
+msgstr ""
+
+#: really-simple-ssl-pro.php:279
+msgid "Really Simple SSL Free needs to be updated to the latest version to be compatible."
+msgstr ""
+
+#: really-simple-ssl-pro.php:280
+msgid "Visit the plugins overview to update Really Simple SSL."
+msgstr ""
+
+#: settings/sync-settings.php:83
+#: settings/sync-settings.php:90
+msgid "Login URL already changed by something else than Really Simple SSL"
+msgstr ""
+
+#: security/wordpress/two_fa/class-two-factor-email.php:68
+msgctxt "Provider Label"
+msgid "Email"
+msgstr ""
+
+#. translators: %s: site name
+#: security/wordpress/two_fa/class-two-factor-email.php:232
+msgid "Your login confirmation code for %s"
+msgstr ""
+
+#: security/wordpress/two_fa/class-two-factor-email.php:249
+msgid "Below you will find your login code for %1$s. It's valid for 15 minutes. %2$s"
+msgstr ""
+
+#. translators: %s is replaced with the site url
+#. translators: %s: site url
+#: security/wordpress/two_fa/class-two-factor-email.php:279
+#: security/wordpress/two_fa/two-factor.php:1467
+#: security/wordpress/two_fa/two-factor.php:1513
+msgid "Notification by %s"
+msgstr ""
+
+#: security/wordpress/two_fa/class-two-factor-email.php:282
+#: security/wordpress/two_fa/two-factor.php:1470
+msgid "Hi"
+msgstr ""
+
+#: security/wordpress/two_fa/class-two-factor-email.php:306
+msgid "A verification code has been sent to the email address associated with your account."
+msgstr ""
+
+#: security/wordpress/two_fa/class-two-factor-email.php:308
+msgid "Verification Code:"
+msgstr ""
+
+#: security/wordpress/two_fa/class-two-factor-email.php:310
+msgid "Log In"
+msgstr ""
+
+#: security/wordpress/two_fa/class-two-factor-email.php:313
+msgid "Resend Code"
+msgstr ""
+
+#: security/wordpress/two_fa/class-two-factor-email.php:346
+msgid "Don't use Two-Step verification"
+msgstr ""
+
+#. translators: %s: email address
+#: security/wordpress/two_fa/class-two-factor-email.php:416
+msgid "Authentication codes will be sent to %s."
+msgstr ""
+
+#: security/wordpress/two_fa/class-two-factor-settings.php:297
+msgid "No role"
+msgstr ""
+
+#: security/wordpress/two_fa/two-factor.php:652
+msgid "Error: API login for user disabled."
+msgstr ""
+
+#: security/wordpress/two_fa/two-factor.php:725
+#: security/wordpress/two_fa/two-factor.php:1238
+#: security/wordpress/two_fa/two-factor.php:1249
+#: security/wordpress/two_fa/two-factor.php:1274
+#: security/wordpress/two_fa/two-factor.php:1300
+msgid "Failed to create a login nonce."
+msgstr ""
+
+#. translators: 1: number of failed login attempts, 2: time since last failed login
+#: security/wordpress/two_fa/two-factor.php:746
+msgid "WARNING: Your account has attempted to login without providing a valid two factor token. The last failed login occured %2$s ago. If this wasn't you, you should reset your password."
+msgid_plural "WARNING: Your account has attempted to login %1$s times without providing a valid two factor token. The last failed login occured %2$s ago. If this wasn't you, you should reset your password."
+msgstr[0] ""
+
+#. translators: %s: URL to reset password
+#: security/wordpress/two_fa/two-factor.php:797
+msgid "Your password was reset because of too many failed Two Factor attempts. You will need to <a href=\"%s\">create a new password</a> to regain access. Please check your email for more information."
+msgstr ""
+
+#. translators: %s: Two-factor method name.
+#: security/wordpress/two_fa/two-factor.php:890
+msgid "Or, use your backup method: %s &rarr;"
+msgstr ""
+
+#: security/wordpress/two_fa/two-factor.php:902
+msgid "Or, use a backup method…"
+msgstr ""
+
+#: security/wordpress/two_fa/two-factor.php:1218
+msgid "Cheatin&#8217; uh?"
+msgstr ""
+
+#: security/wordpress/two_fa/two-factor.php:1225
+#: security/wordpress/two_fa/two-factor.php:1304
+msgid "ERROR: Your verification code expired, click “Resend Code” to receive a new verification code."
+msgstr ""
+
+#. translators: %s: time delay between login attempts
+#: security/wordpress/two_fa/two-factor.php:1265
+msgid "ERROR: Too many invalid verification codes, you can try again in %s. This limit protects your account against automated attacks."
+msgstr ""
+
+#: security/wordpress/two_fa/two-factor.php:1283
+#: security/wordpress/two_fa/two-factor.php:1307
+msgid "ERROR: Invalid verification code."
+msgstr ""
+
+#: security/wordpress/two_fa/two-factor.php:1340
+msgid "You have logged in successfully."
+msgstr ""
+
+#. translators: %1$s: user login, %2$s: site url, %3$s: password best practices link, %4$s: lost password url
+#: security/wordpress/two_fa/two-factor.php:1444
+msgid ""
+"Hello %1$s, an unusually high number of failed login attempts have been detected on your account at %2$s.\n"
+"\n"
+"These attempts successfully entered your password, and were only blocked because they failed to enter your second authentication factor. Despite not being able to access your account, this behavior indicates that the attackers have compromised your password. The most common reasons for this are that your password was easy to guess, or was reused on another site which has been compromised.\n"
+"\n"
+"To protect your account, your password has been reset, and you will need to create a new one. For advice on setting a strong password, please read %3$s\n"
+"\n"
+"To pick a new password, please visit %4$s\n"
+"\n"
+"This is an automated notification. If you would like to speak to a site administrator, please contact them directly."
+msgstr ""
+
+#: security/wordpress/two_fa/two-factor.php:1464
+msgid "Your password was compromised and has been reset"
+msgstr ""
+
+#. translators: %s: user login
+#: security/wordpress/two_fa/two-factor.php:1485
+msgid "Compromised password for %s has been reset"
+msgstr ""
+
+#. translators: %1$s: user login, %2$d: user id, %3$s: hooks documentation url
+#: security/wordpress/two_fa/two-factor.php:1491
+msgid ""
+"Hello, this is a notice from your website to inform you that an unusually high number of failed login attempts have been detected on the %1$s account (ID %2$d).\n"
+"\n"
+"Those attempts successfully entered the user's password, and were only blocked because they entered invalid second authentication factors.\n"
+"\n"
+"To protect their account, the password has automatically been reset, and they have been notified that they will need to create a new one.\n"
+"\n"
+"If you do not wish to receive these notifications, you can disable them with the `two_factor_notify_admin_user_password_reset` filter. See %3$s for more information.\n"
+"\n"
+"Thank you"
+msgstr ""
+
+#: security/wordpress/two_fa/two-factor.php:1516
+msgid "Compromised password reset"
+msgstr ""
+
+#: security/wordpress/two_fa/two-factor.php:1530
+msgid "There have been too many failed two-factor authentication attempts, which often indicates that the password has been compromised. The password has been reset in order to protect the account."
+msgstr ""
+
+#: security/wordpress/two_fa/two-factor.php:1531
+msgid "If you are the owner of this account, please check your email for instructions on regaining access."
+msgstr ""
+
+#: class-admin.php:606
+msgid "Update Really Simple SSL Free to the latest version for optimal compatibility."
+msgstr ""
+
+#: class-admin.php:620
+msgid "You are using W3 Total Cache with Disk: Enhanced setting. This can prevent Security headers from being properly loaded."
+msgstr ""
+
+#: security/wordpress/block-admin-creation.php:310
+msgid "Manual approval required"
+msgstr ""
+
+#: security/wordpress/block-admin-creation.php:311
+msgid "Because of your settings in Really Simple SSL, this user has been set to subscriber until you change the role manually."
+msgstr ""
+
+#: security/wordpress/block-admin-creation.php:317
+#: security/wordpress/block-admin-creation.php:318
+msgid "Suspicious admin account detected"
+msgstr ""
+
+#: security/wordpress/block-admin-creation.php:319
+msgid "A user account with administrator privileges was created outside the WordPress dashboard."
+msgstr ""
+
+#: security/wordpress/two_fa/two-factor.php:1535
+msgid "Password Reset"
+msgstr ""
